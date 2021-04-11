@@ -1,0 +1,36 @@
+.navbar:hover {
+    left: 0px;
+}
+
+.navbar{
+    position: relative;
+    left: -270px;
+    width: 26%;
+    transition: left .4s linear;
+}
+
+
+.navbar a {
+    text-decoration: none;
+    color: lightcoral;
+    padding: 0 20px;
+    line-height: 24px;
+}
+
+.navbar a:hover{
+    font-style: italic;
+    color: deepskyblue;
+}
+
+.navbar a.active{
+    font-style: italic;
+    color: deepskyblue;
+}
+
+.navbar_square{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: lightgreen;
+    vertical-align: sub;
+}
