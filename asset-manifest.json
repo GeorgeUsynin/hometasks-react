@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/HomeTasks_React/static/css/main.d4df71cc.chunk.css",
-    "main.js": "/HomeTasks_React/static/js/main.73447aa3.chunk.js",
-    "main.js.map": "/HomeTasks_React/static/js/main.73447aa3.chunk.js.map",
+    "main.css": "/HomeTasks_React/static/css/main.fdd7c026.chunk.css",
+    "main.js": "/HomeTasks_React/static/js/main.55f5f708.chunk.js",
+    "main.js.map": "/HomeTasks_React/static/js/main.55f5f708.chunk.js.map",
     "runtime-main.js": "/HomeTasks_React/static/js/runtime-main.d66832e7.js",
     "runtime-main.js.map": "/HomeTasks_React/static/js/runtime-main.d66832e7.js.map",
-    "static/js/2.cbcc6c1d.chunk.js": "/HomeTasks_React/static/js/2.cbcc6c1d.chunk.js",
-    "static/js/2.cbcc6c1d.chunk.js.map": "/HomeTasks_React/static/js/2.cbcc6c1d.chunk.js.map",
+    "static/js/2.6ef63c79.chunk.js": "/HomeTasks_React/static/js/2.6ef63c79.chunk.js",
+    "static/js/2.6ef63c79.chunk.js.map": "/HomeTasks_React/static/js/2.6ef63c79.chunk.js.map",
     "index.html": "/HomeTasks_React/index.html",
-    "static/css/main.d4df71cc.chunk.css.map": "/HomeTasks_React/static/css/main.d4df71cc.chunk.css.map",
-    "static/js/2.cbcc6c1d.chunk.js.LICENSE.txt": "/HomeTasks_React/static/js/2.cbcc6c1d.chunk.js.LICENSE.txt"
+    "static/css/main.fdd7c026.chunk.css.map": "/HomeTasks_React/static/css/main.fdd7c026.chunk.css.map",
+    "static/js/2.6ef63c79.chunk.js.LICENSE.txt": "/HomeTasks_React/static/js/2.6ef63c79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d66832e7.js",
-    "static/js/2.cbcc6c1d.chunk.js",
-    "static/css/main.d4df71cc.chunk.css",
-    "static/js/main.73447aa3.chunk.js"
+    "static/js/2.6ef63c79.chunk.js",
+    "static/css/main.fdd7c026.chunk.css",
+    "static/js/main.55f5f708.chunk.js"
   ]
 }
