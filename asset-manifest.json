@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/HomeTasks_React/static/css/main.fdd7c026.chunk.css",
-    "main.js": "/HomeTasks_React/static/js/main.55f5f708.chunk.js",
-    "main.js.map": "/HomeTasks_React/static/js/main.55f5f708.chunk.js.map",
+    "main.js": "/HomeTasks_React/static/js/main.5df6171b.chunk.js",
+    "main.js.map": "/HomeTasks_React/static/js/main.5df6171b.chunk.js.map",
     "runtime-main.js": "/HomeTasks_React/static/js/runtime-main.d66832e7.js",
     "runtime-main.js.map": "/HomeTasks_React/static/js/runtime-main.d66832e7.js.map",
-    "static/js/2.6ef63c79.chunk.js": "/HomeTasks_React/static/js/2.6ef63c79.chunk.js",
-    "static/js/2.6ef63c79.chunk.js.map": "/HomeTasks_React/static/js/2.6ef63c79.chunk.js.map",
+    "static/js/2.852dcbb9.chunk.js": "/HomeTasks_React/static/js/2.852dcbb9.chunk.js",
+    "static/js/2.852dcbb9.chunk.js.map": "/HomeTasks_React/static/js/2.852dcbb9.chunk.js.map",
     "index.html": "/HomeTasks_React/index.html",
     "static/css/main.fdd7c026.chunk.css.map": "/HomeTasks_React/static/css/main.fdd7c026.chunk.css.map",
-    "static/js/2.6ef63c79.chunk.js.LICENSE.txt": "/HomeTasks_React/static/js/2.6ef63c79.chunk.js.LICENSE.txt"
+    "static/js/2.852dcbb9.chunk.js.LICENSE.txt": "/HomeTasks_React/static/js/2.852dcbb9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d66832e7.js",
-    "static/js/2.6ef63c79.chunk.js",
+    "static/js/2.852dcbb9.chunk.js",
     "static/css/main.fdd7c026.chunk.css",
-    "static/js/main.55f5f708.chunk.js"
+    "static/js/main.5df6171b.chunk.js"
   ]
 }
