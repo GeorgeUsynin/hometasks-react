@@ -1,0 +1,41 @@
+.someClass {
+
+}
+.affair{
+    width: 500px;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
+
+.high{
+    color: red;
+}
+
+.middle{
+    color: orange;
+}
+
+.low{
+    color: green;
+}
+
+.delete_button{
+    padding: 0 30px;
+    background-color: lightgreen;
+}
+.delete_button:hover{
+    cursor: pointer;
+}
+
+.affairs_wrapper > button{
+    margin: 10px 20px 0;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+.affairs_wrapper button:hover{
+    cursor: pointer;
+}
+
+.affairs_wrapper button{
+    outline: none;
+}

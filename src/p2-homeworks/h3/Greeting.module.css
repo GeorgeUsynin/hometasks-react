@@ -1,0 +1,27 @@
+.someClass {
+
+}
+
+.error {
+    border: 3px solid red;
+}
+
+.no_error {
+    border: 3px solid green;
+}
+
+.input {
+    outline: none;
+}
+
+.error_message {
+    color: red;
+}
+
+.wrapper button {
+    margin: 0 20px;
+    background-color: lightblue;
+    outline: none;
+    border-radius: 20px;
+
+}
