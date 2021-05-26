@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HomeTasks_React/static/css/main.be55ee61.chunk.css",
-    "main.js": "/HomeTasks_React/static/js/main.eedbde6c.chunk.js",
-    "main.js.map": "/HomeTasks_React/static/js/main.eedbde6c.chunk.js.map",
+    "main.js": "/HomeTasks_React/static/js/main.dd694a87.chunk.js",
+    "main.js.map": "/HomeTasks_React/static/js/main.dd694a87.chunk.js.map",
     "runtime-main.js": "/HomeTasks_React/static/js/runtime-main.d66832e7.js",
     "runtime-main.js.map": "/HomeTasks_React/static/js/runtime-main.d66832e7.js.map",
     "static/js/2.39ea3ee4.chunk.js": "/HomeTasks_React/static/js/2.39ea3ee4.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d66832e7.js",
     "static/js/2.39ea3ee4.chunk.js",
     "static/css/main.be55ee61.chunk.css",
-    "static/js/main.eedbde6c.chunk.js"
+    "static/js/main.dd694a87.chunk.js"
   ]
 }
